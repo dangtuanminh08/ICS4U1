@@ -2,7 +2,6 @@
 Feb 11 - Minh D 
 
 This program contains the answers to Feb 11's tasks (A-I)
-
 */
 
 public class Feb11{
