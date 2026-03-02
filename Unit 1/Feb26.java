@@ -56,11 +56,10 @@ public class Feb26 {
         // Number 5
         double labour = 0.75;
         double rent = 1;
-        System.out.print("How big is yo pizza? (in inches)");
+        System.out.print("How big is your pizza? (in inches)");
         double size = sc.nextDouble();
 
         if(size>20){
-            System.out.println("Damn! You fatty! You paying extra for that!");
             labour++;
         }
         double materials = size*size*0.05;
